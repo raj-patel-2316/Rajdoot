@@ -19,9 +19,24 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+
+        // redirect to login page
         Handler(Looper.getMainLooper()).postDelayed({
-            startActivity(Intent(this, LoginActivity::class.java))
-            finish()
+            // take data from sign up page
+            val sharedPref = getSharedPreferences("userData", MODE_PRIVATE)
+            val login = sharedPref.getString("login", "false") ?: "false"
+
+            if(login=="true"){
+                val intent = Intent(this, HomeActivity::class.java)
+                startActivity(intent)
+                finish()
+            }else {
+                val intent = Intent(this, LoginActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
         }, 2000)
+
     }
 }

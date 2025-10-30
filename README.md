@@ -9,11 +9,11 @@ The app provides a clean user interface that lets users explore static news arti
 
 | Splash Screen | Sign-Up Screen | Login Screen |
 |----------------|----------------|---------------|
-| ![Splash](screenshots/splash.jpg) | ![SignUp](screenshots/signup.jpg) | ![Login](screenshots/login.jpg) |
+| ![Splash](screenshot/splash.jpg) | ![SignUp](screenshot/signup.jpg) | ![Login](screenshot/login.jpg) |
 
 | Home Screen | Profile Screen |
 |--------------|----------------|
-| ![Home](screenshots/home.jpg) | ![Profile](screenshots/profile.jpg) |
+| ![Home](screenshot/home.jpg) | ![Profile](screenshot/profile.jpg) |
 
 > 🖼️ *Replace the above paths (e.g., `screenshots/splash.jpg`) with actual image file paths from your project.*
 

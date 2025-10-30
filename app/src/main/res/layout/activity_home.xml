@@ -51,7 +51,6 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <!-- ===== NEWS 1 ===== -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -71,7 +70,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="India launches new satellite into orbit"
-                    android:textSize="18sp"
+                    android:textSize="18dp"
                     android:textStyle="bold"
                     android:layout_marginTop="8dp"/>
 
@@ -79,7 +78,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Published: Oct 30, 2025"
-                    android:textSize="12sp"
+                    android:textSize="12dp"
                     android:textColor="#888"
                     android:layout_marginTop="4dp"/>
 
@@ -87,12 +86,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="ISRO successfully launched a new weather satellite today from Sriharikota..."
-                    android:textSize="14sp"
+                    android:textSize="14dp"
                     android:layout_marginTop="6dp"/>
 
             </LinearLayout>
 
-            <!-- ===== NEWS 2 ===== -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -112,7 +110,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="New AI tool helps doctors detect diseases early"
-                    android:textSize="18sp"
+                    android:textSize="18dp"
                     android:textStyle="bold"
                     android:layout_marginTop="8dp"/>
 
@@ -120,7 +118,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Published: Oct 28, 2025"
-                    android:textSize="12sp"
+                    android:textSize="12dp"
                     android:textColor="#888"
                     android:layout_marginTop="4dp"/>
 
@@ -128,11 +126,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="A new AI-powered diagnostic tool is helping hospitals identify diseases earlier..."
-                    android:textSize="14sp"
+                    android:textSize="14dp"
                     android:layout_marginTop="6dp"/>
             </LinearLayout>
 
-            <!-- ===== NEWS 3 ===== -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -152,7 +149,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Sports: India wins T20 World Cup 2025"
-                    android:textSize="18sp"
+                    android:textSize="18dp"
                     android:textStyle="bold"
                     android:layout_marginTop="8dp"/>
 
@@ -160,7 +157,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Published: Oct 26, 2025"
-                    android:textSize="12sp"
+                    android:textSize="12dp"
                     android:textColor="#888"
                     android:layout_marginTop="4dp"/>
 
@@ -168,11 +165,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="In an exciting final match, India clinched victory in the T20 World Cup..."
-                    android:textSize="14sp"
+                    android:textSize="14dp"
                     android:layout_marginTop="6dp"/>
             </LinearLayout>
 
-            <!-- ===== NEWS 4 ===== -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -192,7 +188,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Electric vehicles set to dominate Indian roads"
-                    android:textSize="18sp"
+                    android:textSize="18dp"
                     android:textStyle="bold"
                     android:layout_marginTop="8dp"/>
 
@@ -200,7 +196,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Published: Oct 25, 2025"
-                    android:textSize="12sp"
+                    android:textSize="12dp"
                     android:textColor="#888"
                     android:layout_marginTop="4dp"/>
 
@@ -208,11 +204,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Experts predict a huge rise in electric vehicle adoption by 2030..."
-                    android:textSize="14sp"
+                    android:textSize="14dp"
                     android:layout_marginTop="6dp"/>
             </LinearLayout>
 
-            <!-- ===== NEWS 5 ===== -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -232,7 +227,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Rain lashes Gujarat, IMD issues warning"
-                    android:textSize="18sp"
+                    android:textSize="18dp"
                     android:textStyle="bold"
                     android:layout_marginTop="8dp"/>
 
@@ -240,7 +235,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Published: Oct 24, 2025"
-                    android:textSize="12sp"
+                    android:textSize="12dp"
                     android:textColor="#888"
                     android:layout_marginTop="4dp"/>
 
@@ -248,7 +243,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Heavy rainfall caused flooding in parts of Gujarat today, with alerts issued..."
-                    android:textSize="14sp"
+                    android:textSize="14dp"
                     android:layout_marginTop="6dp"/>
             </LinearLayout>
             <LinearLayout

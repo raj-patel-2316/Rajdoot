@@ -15,22 +15,22 @@ The app provides a clean user interface that lets users explore static news arti
 |--------------|----------------|
 | ![Home](screenshot/home.jpg) | ![Profile](screenshot/profile.jpg) |
 
-> 🖼️ *Replace the above paths (e.g., `screenshots/splash.jpg`) with actual image file paths from your project.*
+>  *Replace the above paths (e.g., `screenshots/splash.jpg`) with actual image file paths from your project.*
 
 ---
 
-## 🌟 Features
+##  Features
 
-- 📰 **News Feed:** Displays multiple news cards with titles and images.  
-- 🔍 **Search Bar:** Quickly find news items (UI only).  
-- 👤 **User Authentication (UI only):** Includes Sign-Up and Login screens with OTP design.  
-- 🏠 **Profile Page:** Simple profile layout for user details and settings.  
-- 💾 **No Database Used:** Static data for design and demonstration.  
-- 🎨 **Modern UI Design:** Clean layout with soft colors and ConstraintLayout components.  
+-  **News Feed:** Displays multiple news cards with titles and images.  
+-  **Search Bar:** Quickly find news items (UI only).  
+-  **User Authentication (UI only):** Includes Sign-Up and Login screens with OTP design.  
+-  **Profile Page:** Simple profile layout for user details and settings.  
+-  **No Database Used:** Static data for design and demonstration.  
+-  **Modern UI Design:** Clean layout with soft colors and ConstraintLayout components.  
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Language:** Kotlin  
 - **Framework:** Android SDK  
@@ -41,7 +41,7 @@ The app provides a clean user interface that lets users explore static news arti
 
 ---
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 1. Clone this repository:
    ```bash

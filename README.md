@@ -1,7 +1,7 @@
 # 📰 Rajdoot News App
 
 **Rajdoot** is a simple and elegant Android news application built as a **college assignment project**.  
-The app provides a clean user interface that lets users explore static news articles and navigate between different screens like Login, Signup, Home, and Profile — all **without using any database or backend**.
+The app provides a clean user interface that lets users explore static news articles and navigate between different screens like Login, Signup, Home, and Profile — all **without using any database**.
 
 ---
 

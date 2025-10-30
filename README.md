@@ -15,7 +15,6 @@ The app provides a clean user interface that lets users explore static news arti
 |--------------|----------------|
 | ![Home](screenshot/home.jpg) | ![Profile](screenshot/profile.jpg) |
 
->  *Replace the above paths (e.g., `screenshots/splash.jpg`) with actual image file paths from your project.*
 
 ---
 

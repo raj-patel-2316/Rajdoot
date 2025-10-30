@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    &lt;!&ndash; Background image &ndash;&gt;-->
+    <item>
+        <bitmap
+            android:src="@drawable/gujarat_map"
+           />
+
+    </item>
+
+    <!-- Color overlay with rounded corners -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/shadow" />
+
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+
+</layer-list>
